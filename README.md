@@ -13,3 +13,5 @@ These assets were originally created for some Atlas sample projects that may get
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ![Explosion](https://github.com/apeltsi/Atlas-Asset-Collection/blob/main/animations/effects/gif/160x160/explosion.gif?raw=true)
+
+Copyright (c) Amos Peltonen 2023
